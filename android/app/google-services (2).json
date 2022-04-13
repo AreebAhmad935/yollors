@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034083179121",
+    "project_id": "yollors-51843",
+    "storage_bucket": "yollors-51843.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034083179121:android:85b642121e632a32d4d9d0",
+        "android_client_info": {
+          "package_name": "com.example.yollors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034083179121-nn6srbplep6lfd0kh60i712sne4hcde7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMmlCa6gyPo2XnMeQ0WGOWUsSSHYFu4nA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034083179121-nn6srbplep6lfd0kh60i712sne4hcde7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
